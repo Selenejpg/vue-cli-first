@@ -1,14 +1,13 @@
 <template>
   <div>
-      <h2></h2>
+      <h2>La mia prima app con Vue CLI</h2>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  name: 'Titolo',
+  name: 'TitoloComp',
 }
 </script>
 
